@@ -10,7 +10,7 @@ Contact me to have full lib for use.
 ### add lib to file .toml
 ```toml
 [versions]
-currencyConvert = "261001"
+currencyConvert = "26.11.02"
 [libraries]
 currncyconvert = { module = "io.github.phucbgvns:currency-convert", version.ref = "currencyConvert" }
 ```
